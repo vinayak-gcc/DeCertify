@@ -1,0 +1,362 @@
+
+.text{
+
+position: absolute;
+width: 677px;
+height: 201px;
+left: 60px;
+top: 265px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 51px;
+line-height: 123.52%;
+/* or 63px */
+
+background: linear-gradient(98.25deg, #CD8EFF -11.9%, #D8FFF8 39.03%, #FFEEB4 98.19%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+
+}
+
+.container{
+
+width: 610px;
+height: 122.09px;
+left: 60px;
+top: 532px;
+
+
+width: 288px;
+height: 61px;
+left: 60px;
+top: 532px;
+
+
+
+left: 4.69%;
+right: 72.81%;
+top: 63.94%;
+bottom: 28.73%;
+
+background: #C99EEB;
+border-radius: 37px;
+
+
+width: 208px;
+height: 30px;
+left: calc(50% - 208px/2 - 436px);
+top: calc(50% - 30px/2 + 147px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 123.52%;
+/* identical to box height, or 30px */
+
+color: #4B2568;
+
+
+
+width: 288px;
+height: 61px;
+left: 382px;
+top: 532px;
+
+
+
+/* Rectangle 4 */
+
+left: 29.84%;
+right: 47.66%;
+top: 63.94%;
+bottom: 28.73%;
+
+background: #C99EEB;
+border-radius: 37px;
+
+
+width: 215px;
+height: 30px;
+left: calc(50% - 215px/2 - 114.5px);
+top: calc(50% - 30px/2 + 147px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 123.52%;
+/* identical to box height, or 30px */
+
+color: #4B2568;
+
+width: 376px;
+height: 30.09px;
+left: 64px;
+top: 624px;
+
+width: 376px;
+height: 23px;
+left: 64px;
+top: 624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 123.52%;
+/* or 23px */
+color: #868686;
+
+width: 70.5px;
+height: 1.09px;
+left: 180px;
+top: 653px;
+
+background: #868686;
+
+}
+
+.register{
+
+width: 376px;
+height: 30.09px;
+left: 64px;
+top: 624px;
+
+
+width: 376px;
+height: 23px;
+left: 64px;
+top: 624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 123.52%;
+/* or 23px */
+
+color: #868686;
+
+
+width: 70.5px;
+height: 1.09px;
+left: 180px;
+top: 653px;
+
+}
+
+.DeCertify{
+
+left: 25.58%;
+right: 1.33%;
+top: 4.04%;
+bottom: 23.23%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 54px;
+/* identical to box height */
+
+color: #CD8EFF;
+
+
+}
+
+.Wallet{
+
+text-align: right;
+justify-content: right;
+top: 25px;
+right: 25px;
+
+
+}
+
+.register{
+/* New Here? Register Your Institute Now */
+
+position: absolute;
+width: 376px;
+height: 23px;
+left: 64px;
+top: 624px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 123.52%;
+/* or 23px */
+
+color: #868686;
+
+}
+
+.Image{
+  justify-content: right;
+  display: flex;
+  position: relative;
+}
+  
+.container2{
+  position: absolute;
+}
+
+
+
+
+
+
+.Issue{
+  /* Issue button */
+
+position: absolute;
+width: 288px;
+height: 61px;
+left: 60px;
+top: 532px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+left: 4.69%;
+right: 72.81%;
+top: 63.94%;
+bottom: 28.73%;
+
+background: #C99EEB;
+border-radius: 37px;
+
+
+/* Issue Certificates */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: calc(50% - 208px/2 - 436px);
+top: calc(50% - 30px/2 + 147px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 123.52%;
+/* identical to box height, or 30px */
+
+color: #4B2568;
+
+
+}
+
+
+
+.Verify{
+  /* Issue button */
+
+position: absolute;
+width: 288px;
+height: 61px;
+left: 382px;
+top: 532px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+left: 29.84%;
+right: 47.66%;
+top: 63.94%;
+bottom: 28.73%;
+
+background: #C99EEB;
+border-radius: 37px;
+
+
+/* Verify Certificates */
+
+position: absolute;
+width: 215px;
+height: 30px;
+left: calc(50% - 215px/2 - 114.5px);
+top: calc(50% - 30px/2 + 147px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 123.52%;
+/* identical to box height, or 30px */
+
+color: #4B2568;
+
+
+}
+
+.Text{
+  /* Main/home-text */
+
+width: 713px;
+height: 90px;
+left: 60px;
+top: 288px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 65px;
+line-height: 138.52%;
+/* identical to box height, or 90px */
+
+background: linear-gradient(98.25deg, #CD8EFF -11.9%, #D8FFF8 39.03%, #FFEEB4 98.19%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+
+.SelectCourse{
+  text-align: right;
+}
+
+
+.AddCourse{
+  text-align: right;
+}
+
+.Certificate{
+  /* Main/home-text */
+
+position: absolute;
+width: 341px;
+height: 69px;
+left: 60px;
+top: 191px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 65px;
+line-height: 138.52%;
+/* or 90px */
+
+background: linear-gradient(98.25deg, #CD8EFF -11.9%, #D8FFF8 39.03%, #FFEEB4 98.19%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+.CertificateButton{
+  
+}
