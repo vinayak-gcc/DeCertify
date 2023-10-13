@@ -1,0 +1,159 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_instituteName",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "_instituteWallet",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "_instituteCourse",
+						"type": "string"
+					}
+				],
+				"name": "addInstitute",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_issuerId",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_issuerName",
+						"type": "string"
+					}
+				],
+				"name": "addIssuer",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"name": "idToIssuerName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "listOfInstitutes",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "instituteName",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "instituteWallet",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "instituteCourse",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "listOfIssuers",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "issuerId",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "issuerName",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"DeCertify.sol": "DeCertify"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"DeCertify.sol": {
+			"keccak256": "0x49a4864320a9a46ff0b91e20f368d177b84c839901ff5f71f7b5de701a9cb74a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5aabc7887f567d83d6cb6d551a1a7486cbab8345d18f086a62d50af8227f15ce",
+				"dweb:/ipfs/QmPpAb7r8AyLLwooKkqCBnKeqeR4NALHSJuYJdXDUhXccL"
+			]
+		}
+	},
+	"version": 1
+}
